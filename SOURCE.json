@@ -1,0 +1,15 @@
+{
+  "local_project_commit": "4730c6a6888022f41ef74a94a71476bab3965636",
+  "runtime_evidence_commit": "f2505fc1718c5d87164505741b2aa3b0ffe9918a",
+  "files": {
+    "results/gemini_offline_review.json": "426596557bb8b88db82e376198ba8b332b95a06cd9964dceaf85a1ea3b1356dc",
+    "results/tests.txt": "bf1fe33ecebbf8bb5fddb875431fe372274b51469fd49cc5a0905503241f0be3",
+    "results/demo_flow.json": "9c822801d8c1138a28ac820df22d303e614e885a139852048e51aa43408df30c",
+    "results/gemini_open_media.json": "80b67b2878d4a240092cd3c5ef277906e46cf5e761f2973fc5848b2b4b23cf67",
+    "results/verification.json": "45f126798865619acba0df477f8398da0959ec7b8538428d06a40f5c8d79f9c8",
+    "results/recommendations.json": "1b188886e75c50eed33a19aa3f71300c456550cc4599a410d3d0a0b05e6a9421",
+    "results/browser.json": "a7088c06ac8fc26385f0197fb559dd5c318d68a852c404b334e699f7c541211d"
+  },
+  "media_published": false,
+  "raw_payloads_published": false
+}
